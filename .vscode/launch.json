@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\lookForShellies.ts",
+            "program": "${workspaceFolder}\\src\\lookForShellies.ts",
             "outFiles": [
                 "${workspaceFolder}/out/**/*.js"
             ]
